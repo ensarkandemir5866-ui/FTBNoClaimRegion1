@@ -1,0 +1,7 @@
+name: FTBNoClaimRegion1
+main: com.ensarcraft.ftbnc.FTBNoClaimRegion1
+version: 1.0.0
+api-version: 1.20
+author: EnsarCraft
+depend: [WorldGuard]
+description: Blocks FTB Chunks claiming inside WorldGuard regions with ftb-no-claim flag
